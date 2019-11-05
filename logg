@@ -1,0 +1,21 @@
+Extracting 994 files in ./../../motorola/sdm632-common/proprietary-files.txt from ../../../../mix/:
+  - bin/wfdservice
+  - etc/init/wfdservice.rc
+  - etc/permissions/cneapiclient.xml
+  - vendor/etc/permissions/com.motorola.camera2.denali.xml
+  - vendor/etc/permissions/com.motorola.moto-uirefresh.xml
+  - vendor/etc/permissions/com.motorola.motodisplay.xml
+  - etc/permissions/com.qualcomm.qti.imscmservice-V2.0-java.xml
+  - etc/permissions/com.qualcomm.qti.imscmservice-V2.1-java.xml
+  - etc/permissions/com.qualcomm.qti.imscmservice.xml
+  - etc/permissions/com.quicinc.cne.xml
+  - vendor/etc/permissions/qcrilhook.xml
+  - vendor/etc/permissions/qti_libpermissions.xml
+  - vendor/etc/permissions/qti_permissions.xml
+  - vendor/etc/permissions/telephonyservice.xml
+  - etc/wfdconfig.xml
+  - etc/wfdconfigsink.xml
+  - vendor/framework/QtiTelephonyServicelibrary.jar
+Checking if system is odexed and locating boot.oats...
+  - framework/cneapiclient.jar
+  - framework/com.qualcomm.qti.imscmservice-V2.0-java.jar
